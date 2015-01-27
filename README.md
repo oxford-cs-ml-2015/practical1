@@ -4,7 +4,7 @@ Machine Learning, spring 2015
 ## Setup
 Most of the lab machines will have Torch precompiled and stored in `/home/scratch/torchshared/torch`. This will speed up installation as the install script (`install-torch.sh`) will detect this automatically and install if so. If you prefer to force the script to download from the internet and not use this directory, which takes longer, you may modify the script yourself. You may install Torch on your personal machine if you like, though due to time constraints and varying system configurations we are unable to support this.
 
-Clone the git respository somewhere and `cd` into it, and run the installation script, which is only intended to be run on the lab machines:
+Clone the git repository somewhere and `cd` into it, and run the installation script, which is only intended to be run on the lab machines:
 ```sh
 $ git clone https://github.com/oxford-cs-ml-2015/practical1.git
 $ cd practical1
