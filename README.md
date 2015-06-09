@@ -1,6 +1,8 @@
 # Practical 1
 Machine Learning, spring 2015
 
+**NOTE:** if you are not reading this from an Oxford CS lab machine, `install-torch.sh` will be completely useless. Please use the **official** installation route instead: <https://github.com/torch/ezinstall>.
+
 ## Setup
 Most of the lab machines will have Torch precompiled and stored in `/home/scratch/torchshared/torch`. This will speed up installation as the install script (`install-torch.sh`) will detect this automatically and install if so. If you prefer to force the script to download from the internet and not use this directory, which takes longer, you may modify the script yourself. You may install Torch on your personal machine if you like, though due to time constraints and varying system configurations we are unable to support this.
 
