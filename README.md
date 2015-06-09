@@ -44,5 +44,6 @@ th> torch.randn(2,2)
 **IMPORTANT NOTE**: the script will attempt to install IPython 2.x along with its dependencies if you have a version older than 2.2, which should be the case for most of you. If you do not wish for the script to upgrade IPython, edit the script and comment out the IPython portion for now. We will only need it in a later practical.
 
 # See course page for practicals
-<https://www.cs.ox.ac.uk/teaching/materials14-15/ml/>
+<https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/>
+
 
